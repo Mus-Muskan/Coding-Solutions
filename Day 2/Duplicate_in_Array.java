@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.*;
 
-public class Solution {
+public class Duplicate_in_Array {
 
 	public static int findDuplicate(ArrayList<Integer> arr) {
             int N, sum=0,s=0, element;
